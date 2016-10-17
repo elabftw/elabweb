@@ -1,0 +1,37 @@
+---
+
+port: 4000
+host: 0.0.0.0
+safe: true
+
+
+### site serving configuration ###
+#exclude: [README.md, .gitignore]
+permalink: /:slug
+timezone: null
+lsi: false
+markdown: kramdown
+highlighter: rouge
+
+
+### content configuration ###
+title:       "eLabFTW - free open source ELN"
+keywords:    "electronic, laboratory, notebook, research, lab, database, manager"
+description: "A free and open source electronic lab notebook for researchers."
+source_link: "http://www.elabftw.net"
+favicon:     "img/favicon.ico"
+touch_icon:  "img/apple-touch-icon.png"
+google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
+
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#29aeb9'
+  green:     '#22C676'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
+  red:       '#d9534f'
+  grey:      '#343434'
