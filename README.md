@@ -1,3 +1,5 @@
 # Source code for elabftw.net
 
-http://www.elabftw.net
+[See website](https://www.elabftw.net)
+
+Powered by [Jekyll](https://jekyllrb.com)
