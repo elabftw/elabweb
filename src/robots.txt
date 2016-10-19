@@ -1,4 +1,4 @@
 User-agent: *
 Allow: *
 
-Sitemap: http://www.elabftw.net/sitemap.xml
+Sitemap: https://www.elabftw.net/sitemap.xml
