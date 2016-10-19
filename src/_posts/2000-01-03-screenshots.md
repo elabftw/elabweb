@@ -9,13 +9,9 @@ fa-icon: desktop
 
 > I love software websites without screenshots of the actual thing. − No one ever.
 
-Click the image below to see it in bigger size:
+![showxp](img/scrot-showxp.png)
 
-[![Demo gif](https://i.imgur.com/SRHsIEM.gif)](https://gfycat.com/ImpressivePoliteAsiaticmouflon)
-
-![showxp](https://i.imgur.com/CvYsGY0.jpg)
-
-![viewxp](https://i.imgur.com/dXDmcxT.jpg)
+![viewxp](img/scrot-viewxp.png)
 
 -------------------------
 
