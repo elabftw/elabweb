@@ -276,6 +276,7 @@ nav ul li:hover, nav ul li.active {
 }
 
 .button:hover {
+    cursor:pointer;
     background-color: #1F8591;
 }
 
