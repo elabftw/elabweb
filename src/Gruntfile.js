@@ -17,8 +17,17 @@ module.exports = function(grunt) {
         }
       }
     },
+    cssmin: {
+      target: {
+        files: {
+          '_includes/css/elabweb.min.css': ['node_modules/font-awesome/css/font-awesome.css']
+        }
+      }
+    },
   });
 
   grunt.loadNpmTasks('grunt-contrib-uglify');
-  grunt.registerTask('default', 'uglify');
+  grunt.loadNpmTasks('grunt-contrib-cssmin');
+  grunt.registerTask('default', ['uglify', 'cssmin']);
+  grunt.registerTask('css', 'cssmin');
 };
