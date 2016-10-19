@@ -13,7 +13,7 @@ module.exports = function(grunt) {
       },
       dist: {
         files: {
-          'elabweb.min.js': ['_includes/js/site.js']
+          'elabweb.min.js': ['node_modules/jquery/dist/jquery.js', '_includes/js/site.js']
         }
       }
     },
