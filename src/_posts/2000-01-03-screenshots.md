@@ -17,6 +17,6 @@ fa-icon: desktop
 
 # Live demo
 
-Screenshots are cool, but if you want to really feel what the app can and cannot do, head to the live demo :
+Screenshots are cool, but if you want to really feel what the app can and cannot do, head to the live demo:
 
 <div class='center'><a href='https://demo.elabftw.net'><button class='button'>Take me to the demo</button></a></div>
