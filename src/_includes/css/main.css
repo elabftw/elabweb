@@ -261,6 +261,23 @@ nav ul li:hover, nav ul li.active {
 .longlist { font-size: 14px !important; }
 .longlist li { margin-bottom: 3px; }
 
+.row.display-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+.row.display-flex > [class*='col-'] {
+    display: flex;
+    flex-direction: column;
+}
+.feature-title {
+    text-align: center;
+    font-size: 140%;
+    font-weight: bold;
+}
+
+.container-fluid {
+    padding: 0;
+}
 
 .button {
     border: none;
