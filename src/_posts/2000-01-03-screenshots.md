@@ -19,4 +19,4 @@ fa-icon: desktop
 
 Screenshots are cool, but if you want to really feel what the app can and cannot do, head to the live demo:
 
-<div class='center'><a href='https://demo.elabftw.net'><button class='button'>Take me to the demo</button></a></div>
+<div class='center'><a href='https://demo.elabftw.net'><button class='button'>Take me to the demo <i class='fa fa-external-link'></i></button></a></div>
