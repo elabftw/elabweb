@@ -7,7 +7,7 @@ fa-icon: desktop
 
 # Some screenshots
 
-> I love software websites without screenshots of the actual thing. − No one ever.
+> <i class='fa fa-quote-left'></i> I love software websites without screenshots of the actual thing. <i class='fa fa-quote-right'></i> − No one ever.
 
 ![showxp](img/scrot-showxp.jpg)
 
