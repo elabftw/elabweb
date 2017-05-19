@@ -200,7 +200,7 @@ nav ul li:hover, nav ul li.active {
   -moz-border-radius:50%;
   -webkit-border-radius:50%;
   box-shadow: 0px 1px 15px rgba(0,0,0,0.05);
-  background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAF0lEQVQIHWP8//+/MQMaYELjg7kUCgIASm8DOqGzfp8AAAAASUVORK5CYII=);
+  background:url('img/white.png');
 }
 
 .sectiondivider {
@@ -402,3 +402,18 @@ nav ul li:hover, nav ul li.active {
 .center{
     text-align:center;
 }
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('fonts/Raleway-Regular.ttf') format('truetype');
+}
+
+/* octocat */
+#octocat {
+    fill:#fff; color:#2E2E2E; position: absolute; top: 0; border: 0; right: 0;
+}
+.github-corner:hover .octo-arm{
+animation:octocat-wave 560ms ease-in-out;
+transform-origin: 130px 106px;
+}
+@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}

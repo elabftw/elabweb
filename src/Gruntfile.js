@@ -20,7 +20,10 @@ module.exports = function(grunt) {
     cssmin: {
       target: {
         files: {
-          '_includes/css/elabweb.min.css': ['node_modules/font-awesome/css/font-awesome.css']
+          '_includes/css/awesome-bootstrap.min.css': [
+            'node_modules/font-awesome/css/font-awesome.css',
+            'node_modules/bootstrap/dist/css/bootstrap.css'
+          ]
         }
       }
     },
