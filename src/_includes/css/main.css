@@ -175,6 +175,10 @@ nav ul li:hover, nav ul li.active {
   /* generated noise from noisetexturegenerator.com */
 }
 
+h1 {
+  background:url(img/bgnoise.png);
+}
+
 #install {
   background:url(img/bgnoise.png);
 }
