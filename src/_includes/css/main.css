@@ -274,6 +274,12 @@ h1#download, h1#features {
     display: flex;
     flex-direction: column;
 }
+
+.feature-icon {
+    text-align: center;
+    margin-bottom: 7px;
+}
+
 .feature-title {
     text-align: center;
     font-size: 140%;
