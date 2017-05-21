@@ -13,7 +13,11 @@ module.exports = function(grunt) {
       },
       dist: {
         files: {
-          'elabweb.min.js': ['node_modules/jquery/dist/jquery.js', '_includes/js/site.js']
+          'elabweb.min.js': [
+                'node_modules/jquery/dist/jquery.js',
+                'node_modules/@fancyapps/fancybox/dist/jquery.fancybox.js',
+                '_includes/js/site.js'
+          ]
         }
       }
     },
@@ -22,7 +26,8 @@ module.exports = function(grunt) {
         files: {
           '_includes/css/awesome-bootstrap.min.css': [
             'node_modules/font-awesome/css/font-awesome.css',
-            'node_modules/bootstrap/dist/css/bootstrap.css'
+            'node_modules/bootstrap/dist/css/bootstrap.css',
+            'node_modules/@fancyapps/fancybox/dist/jquery.fancybox.css',
           ]
         }
       }
