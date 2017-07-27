@@ -1,13 +1,13 @@
 ---
-title: "download"
+title: "documentation"
 bg: green
 color: black
-fa-icon: download
+fa-icon: book
 ---
 
-# Download
+# Documentation / Installation instructions
 
-**Wait, wait!** Maybe you don't need to download it! If you are doing research in an University or Institute you might want to ask the IT service to install it on the local network. This way, all the other teams can use the same install!
+**Wait, wait!** Maybe you don't need to install it! If you are doing research in an University or Institute you might want to ask the IT service to install it on the local network. This way, all the other teams can use the same install!
 
 **eLabFTW** should be installed on a server. It uses the Docker container technology, so you don't directly download it, you use a configuration file that instructs Docker to fetch the **eLabFTW** image.
 
