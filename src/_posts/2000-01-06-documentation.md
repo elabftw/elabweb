@@ -11,6 +11,8 @@ fa-icon: book
 
 **eLabFTW** should be installed on a server. It uses the Docker container technology, so you don't directly download it, you use a configuration file that instructs Docker to fetch the **eLabFTW** image.
 
+Alternatively, you can install it easily with [Softaculous](https://www.softaculous.com/apps/educational/eLabFTW).
+
 Don't worry if what you just read was not clear. Everything is explained in the <a href='https://doc.elabftw.net'>documentation</a>. Click the link below to read it.
 
 <div class='center'><a href='https://doc.elabftw.net'><button class='button'><i class='fa fa-download'></i> Install eLabFTW now!</button></a></div>
