@@ -280,6 +280,14 @@ h1#download, h1#features {
     margin-bottom: 7px;
 }
 
+.fa-desktop {
+    color: #29AEB9;
+}
+
+#screenshots > div:nth-child(1) > h5:nth-child(2) {
+    color: #29AEB9;
+}
+
 .feature-title {
     text-align: center;
     font-size: 140%;
