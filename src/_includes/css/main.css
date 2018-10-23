@@ -318,6 +318,15 @@ h1#download, h1#features {
     color: white !important;
 }
 
+.button-inverted {
+    background-color: #fff;
+    color: #29AEB9;
+}
+.button-inverted:hover {
+    cursor:pointer;
+    background-color: #d5d5d5;
+}
+
 /* ----- fork on github banner ----- */
 #forkongithub a {
   color:#fff;

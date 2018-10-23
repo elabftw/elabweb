@@ -1,6 +1,6 @@
 ---
 title: "screenshots"
-bg: orange
+bg: white
 color: black
 fa-icon: desktop
 ---
