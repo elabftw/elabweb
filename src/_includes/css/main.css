@@ -134,7 +134,9 @@ nav ul {
 
 nav ul li {
   display:inline-block;
+  /*
   border-top:{{navborder}}px solid;
+  */
   padding: {{navborder}}px 10px;
   *display:inline;
   zoom:1;
@@ -149,19 +151,31 @@ nav ul li {
 nav ul li a, nav ul li a:visited {
   display:block;
   color:#fff;
-  text-decoration:none;
+  text-decoration:none !important;
   font-weight:600;
   opacity:.75;
 }
 
-nav ul li a:hover {
-  opacity:1
+nav ul li a:visited {
+  color:#fff !important;
 }
+
+nav ul li a:hover {
+  opacity:1;
+  color: #29AEB9;
+  text-decoration: none;
+}
+
 nav ul li:hover, nav ul li.active {
   border-top-width: {{navborder_active}}px;
   padding-top: 0;
+  text-decoration: none;
+  color: #fff;
 }
 
+nav ul li.active a {
+  color: #29AEB9;
+}
 
 /* ----- sections/articles ----- */
 
