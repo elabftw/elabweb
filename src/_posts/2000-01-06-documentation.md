@@ -11,6 +11,12 @@ fa-icon: book
 
 **eLabFTW** should be installed on a server. It uses the Docker container technology, so you don't directly download it, you use a configuration file that instructs Docker to fetch the **eLabFTW** image.
 
-Don't worry if what you just read was not clear. Everything is explained in the <a href='https://doc.elabftw.net'>documentation</a>. Click the link below to read it.
+If you're not familiar with Docker and server administration, it is recommended to opt for a managed hosted solution. See our pricing on this page: <a href='https://www.deltablot.com/elabftw'>eLabFTW hosted pricing</a>.
 
-<div class='center'><a href='https://doc.elabftw.net'><button class='button button-inverted'><i class='fa fa-download'></i> Install eLabFTW now!</button></a></div>
+If you want to install it yourself head to the <a href='https://doc.elabftw.net'>documentation</a>.
+
+<div class='center'>
+<a href='https://doc.elabftw.net'><button class='button button-inverted'><i class='fa fa-2x fa-download'></i> Install eLabFTW yourself</button></a>
+
+<a href='https://www.deltablot.com/elabftw'><button class='button button-inverted'><i class='fa fa-2x fa-cart-arrow-down'></i> Get hosted solution</button></a>
+</div>
