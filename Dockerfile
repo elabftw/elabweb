@@ -1,6 +1,6 @@
 # serve www.elabftw.net on port 4000
 FROM ruby:2.3
-MAINTAINER Nicolas CARPi <nicolas.carpi@curie.fr>
+MAINTAINER Nicolas CARPi <nospam@example.com>
 
 COPY ./src /src
 
