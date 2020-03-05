@@ -1,2 +1,4 @@
 src/_site/
 src/node_modules/
+src/_includes/css/*.min.css
+src/*.min.js

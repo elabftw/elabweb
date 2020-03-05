@@ -14,9 +14,12 @@ module.exports = function(grunt) {
       dist: {
         files: {
           'elabweb.min.js': [
-                'node_modules/jquery/dist/jquery.js',
-                'node_modules/@fancyapps/fancybox/dist/jquery.fancybox.js',
-                '_includes/js/site.js'
+            'node_modules/jquery/dist/jquery.js',
+            'node_modules/bootstrap/js/dist/util.js',
+            'node_modules/bootstrap/js/dist/alert.js',
+            'node_modules/@fancyapps/fancybox/dist/jquery.fancybox.js',
+            'node_modules/@fortawesome/fontawesome-free/js/all.js',
+            '_includes/js/site.js'
           ]
         }
       }
@@ -25,7 +28,6 @@ module.exports = function(grunt) {
       target: {
         files: {
           '_includes/css/awesome-bootstrap.min.css': [
-            'node_modules/font-awesome/css/font-awesome.css',
             'node_modules/bootstrap/dist/css/bootstrap.css',
             'node_modules/@fancyapps/fancybox/dist/jquery.fancybox.css',
           ]
@@ -34,7 +36,7 @@ module.exports = function(grunt) {
     },
   });
 
-  grunt.loadNpmTasks('grunt-contrib-uglify');
+  grunt.loadNpmTasks('grunt-contrib-uglify-es');
   grunt.loadNpmTasks('grunt-contrib-cssmin');
   grunt.registerTask('default', ['uglify', 'cssmin']);
   grunt.registerTask('css', 'cssmin');

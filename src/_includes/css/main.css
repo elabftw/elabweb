@@ -116,6 +116,7 @@ hr {
 
 nav {
   font-size:15px;
+  height: 70px;
   width:100%;
   position:fixed;
   z-index:100;
@@ -216,35 +217,32 @@ h1#download, h1#features {
   text-align:center;
   z-index:3;
   border-radius:50%;
-  -moz-border-radius:50%;
-  -webkit-border-radius:50%;
   box-shadow: 0px 1px 15px rgba(0,0,0,0.05);
   background:url('img/white.png');
 }
 
 .sectiondivider {
   width:270px;
+  margin: auto;
   height:270px;
-  padding:15px;
   position:absolute;
   top:-135px;
   left:50%;
+  background-color: #fff;
   margin-left:-135px;
-}
-
-.sectiondivider img {
-  width:200px;
-  height:240px;
-  position: static;
-  margin-top: -20px;
+  box-shadow: 0px 1px 15px rgba(0,0,0,0.5);
 }
 
 .sectiondivider .fa-stack {
   font-size: 130px;
-  position: static;
-  margin-top: -8px;
+  width: 270px;
+  margin: auto;
+  margin-top: -12px;
 }
-.sectiondivider .fa-circle { color: #fff; }
+
+.sectiondivider .fa-circle {
+    color: #fff;
+}
 
 .sectiondivider h5 {
   font-size:15px;
@@ -256,7 +254,7 @@ h1#download, h1#features {
   text-align:center;
   display:block;
   z-index:6;
-  width:240px;
+  width:270px;
 }
 
 .sectiondivider.imaged {

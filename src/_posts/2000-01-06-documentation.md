@@ -16,7 +16,7 @@ If you're not familiar with Docker and server administration, it is recommended 
 If you want to install it yourself head to the <a href='https://doc.elabftw.net'>documentation</a>.
 
 <div class='center'>
-<a href='https://doc.elabftw.net'><button class='button button-inverted'><i class='fa fa-2x fa-download'></i> Install eLabFTW yourself</button></a>
+<a href='https://doc.elabftw.net'><button class='button button-inverted'><i class='fas fa-2x fa-download'></i> Install eLabFTW yourself</button></a>
 
-<a href='https://www.deltablot.com/elabftw'><button class='button button-inverted'><i class='fa fa-2x fa-cart-arrow-down'></i> Get hosted solution</button></a>
+<a href='https://www.deltablot.com/elabftw'><button class='button button-inverted'><i class='fas fa-2x fa-cart-arrow-down'></i> Get hosted solution</button></a>
 </div>

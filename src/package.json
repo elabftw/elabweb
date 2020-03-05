@@ -1,0 +1,22 @@
+{
+  "name": "elabweb",
+  "version": "1.0.0",
+  "description": "elabftw.net website",
+  "main": "index.html",
+  "repository": "https://github.com/elabftw/elabweb",
+  "author": "NicolasCARPi",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-uglify-es": "^3.3.0"
+  },
+  "dependencies": {
+    "@fancyapps/fancybox": "^3.5.7",
+    "@fortawesome/fontawesome": "^1.1.8",
+    "@fortawesome/fontawesome-free": "^5.12.1",
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.1"
+  }
+}
