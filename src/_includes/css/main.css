@@ -116,7 +116,7 @@ hr {
 
 nav {
   font-size:15px;
-  height: 70px;
+  height: 80px;
   width:100%;
   position:fixed;
   z-index:100;
@@ -235,7 +235,7 @@ h1#download, h1#features {
 
 .sectiondivider .fa-stack {
   font-size: 130px;
-  width: 270px;
+  width: 100%;
   margin: auto;
   margin-top: -12px;
 }
