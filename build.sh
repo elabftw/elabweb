@@ -4,5 +4,7 @@ cd src || exit 1
 docker run --rm -v "$PWD:/usr/src/app" -w /usr/src/app -it node:current-alpine yarn install
 # build minified assets
 ./node_modules/.bin/grunt
+# fix permission issue
+mkdir -p _site
 # build website
 docker run --rm -v "$PWD:/srv/jekyll" -it jekyll/builder:3.8 jekyll build
