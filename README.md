@@ -11,4 +11,6 @@ In `src/`:
 * `grunt`
 * `jekyll serve`.
 
+Or just `./build.sh`
+
 Powered by [Jekyll](https://jekyllrb.com)
