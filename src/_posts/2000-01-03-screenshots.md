@@ -70,6 +70,16 @@ fa-icon: desktop
             <img src='img/screen-12-thumb.jpg' alt='elabftw-eln' title='Sysadmin' />
         </a>
       </div>
+    <div class='col-xs-6 col-md-6'>
+        <a href='img/screen-13.jpg' class='thumbnail' data-fancybox='group' data-caption='Plasmid viewer'>
+            <img src='img/screen-13-thumb.jpg' alt='elabftw-eln' title='Plasmid viewer' />
+        </a>
+      </div>
+    <div class='col-xs-6 col-md-6'>
+        <a href='img/screen-14.jpg' class='thumbnail' data-fancybox='group' data-caption='Metadata editor'>
+            <img src='img/screen-14-thumb.jpg' alt='elabftw-eln' title='Metadata editor' />
+        </a>
+      </div>
 </div>
 
 -------------------------
