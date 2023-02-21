@@ -2,7 +2,6 @@
 
 [See website](https://www.elabftw.net)
 
-
 # Usage
 
 In `src/`:
