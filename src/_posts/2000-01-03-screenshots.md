@@ -11,73 +11,73 @@ fa-icon: desktop
 
 <div class='row'>
     <div class='col-xs-6 col-md-3'>
-        <a href='img/screen-1.jpg' class='thumbnail' data-fancybox='group' data-caption='Experiments index'>
-            <img src='img/screen-1-thumb.jpg' alt='elabftw-eln' title='Experiments' />
+        <a href='img/screen-1.webp' class='thumbnail' data-fancybox='group' data-caption='Experiments index'>
+            <img src='img/screen-1-thumb.webp' alt='elabftw-eln' title='Experiments' />
+        </a>
+    </div>
+    <div class='col-xs-6 col-md-3'>
+        <a href='img/screen-1b.webp' class='thumbnail' data-fancybox='group' data-caption='Editing an experiment'>
+            <img src='img/screen-1b-thumb.webp' alt='elabftw-eln' title='Editing an experiment' />
         </a>
       </div>
     <div class='col-xs-6 col-md-3'>
-        <a href='img/screen-2.jpg' class='thumbnail' data-fancybox='group' data-caption='Display an experiment'>
-            <img src='img/screen-2-thumb.jpg' alt='elabftw-eln' title='View experiment' />
+        <a href='img/screen-3.webp' class='thumbnail' data-fancybox='group' data-caption='Editing a database entry'>
+            <img src='img/screen-3-thumb.webp' alt='elabftw-eln' title='Editing a database entry' />
         </a>
       </div>
     <div class='col-xs-6 col-md-3'>
-        <a href='img/screen-3.jpg' class='thumbnail' data-fancybox='group' data-caption='View experiment uploaded files'>
-            <img src='img/screen-3-thumb.jpg' alt='elabftw-eln' title='View experiment' />
+        <a href='img/screen-4.webp' class='thumbnail' data-fancybox='group' data-caption='It is possible to link entries'>
+            <img src='img/screen-4-thumb.webp' alt='elabftw-eln' title='It is possible to link entries' />
         </a>
       </div>
     <div class='col-xs-6 col-md-3'>
-        <a href='img/screen-4.jpg' class='thumbnail' data-fancybox='group' data-caption='Edit an experiment'>
-            <img src='img/screen-4-thumb.jpg' alt='elabftw-eln' title='Edit an experiment' />
+        <a href='img/screen-5.webp' class='thumbnail' data-fancybox='group' data-caption='Book equipment'>
+            <img src='img/screen-5-thumb.webp' alt='elabftw-eln' title='Book equipment' />
         </a>
       </div>
     <div class='col-xs-6 col-md-3'>
-        <a href='img/screen-5.jpg' class='thumbnail' data-fancybox='group' data-caption='Edit a molecule'>
-            <img src='img/screen-5-thumb.jpg' alt='elabftw-eln' title='Edit a molecule' />
+        <a href='img/screen-6.webp' class='thumbnail' data-fancybox='group' data-caption='Advanced search'>
+            <img src='img/screen-6-thumb.webp' alt='elabftw-eln' title='Advanced search' />
         </a>
       </div>
     <div class='col-xs-6 col-md-3'>
-        <a href='img/screen-6.jpg' class='thumbnail' data-fancybox='group' data-caption='Database'>
-            <img src='img/screen-6-thumb.jpg' alt='elabftw-eln' title='Database' />
+        <a href='img/screen-7.webp' class='thumbnail' data-fancybox='group' data-caption='User control panel'>
+            <img src='img/screen-7-thumb.webp' alt='elabftw-eln' title='User control panel' />
         </a>
       </div>
     <div class='col-xs-6 col-md-3'>
-        <a href='img/screen-7.jpg' class='thumbnail' data-fancybox='group' data-caption='Scheduler'>
-            <img src='img/screen-7-thumb.jpg' alt='elabftw-eln' title='Scheduler' />
+        <a href='img/screen-8.webp' class='thumbnail' data-fancybox='group' data-caption='Experiments templates list'>
+            <img src='img/screen-8-thumb.webp' alt='elabftw-eln' title='Experiments templates list' />
         </a>
       </div>
     <div class='col-xs-6 col-md-3'>
-        <a href='img/screen-8.jpg' class='thumbnail' data-fancybox='group' data-caption='Search page'>
-            <img src='img/screen-8-thumb.jpg' alt='elabftw-eln' title='Search' />
+        <a href='img/screen-9.webp' class='thumbnail' data-fancybox='group' data-caption='Database categories'>
+            <img src='img/screen-9-thumb.webp' alt='elabftw-eln' title='Database categories' />
         </a>
       </div>
     <div class='col-xs-6 col-md-3'>
-        <a href='img/screen-9.jpg' class='thumbnail' data-fancybox='group' data-caption='User Control Panel'>
-            <img src='img/screen-9-thumb.jpg' alt='elabftw-eln' title='User Control Panel' />
+        <a href='img/screen-10.webp' class='thumbnail' data-fancybox='group' data-caption='Admin panel: export options'>
+            <img src='img/screen-10-thumb.webp' alt='elabftw-eln' title='Admin panel: export options' />
         </a>
       </div>
     <div class='col-xs-6 col-md-3'>
-        <a href='img/screen-10.jpg' class='thumbnail' data-fancybox='group' data-caption='User templates'>
-            <img src='img/screen-10-thumb.jpg' alt='elabftw-eln' title='Templates' />
+        <a href='img/screen-11.webp' class='thumbnail' data-fancybox='group' data-caption='SysAdmin panel'>
+            <img src='img/screen-11-thumb.webp' alt='elabftw-eln' title='SysAdmin panel' />
         </a>
       </div>
     <div class='col-xs-6 col-md-3'>
-        <a href='img/screen-11.jpg' class='thumbnail' data-fancybox='group' data-caption='Admin panel'>
-            <img src='img/screen-11-thumb.jpg' alt='elabftw-eln' title='Admin' />
-        </a>
-      </div>
-    <div class='col-xs-6 col-md-3'>
-        <a href='img/screen-12.jpg' class='thumbnail' data-fancybox='group' data-caption='Sysadmin panel'>
-            <img src='img/screen-12-thumb.jpg' alt='elabftw-eln' title='Sysadmin' />
+        <a href='img/screen-12.webp' class='thumbnail' data-fancybox='group' data-caption='Listing users'>
+            <img src='img/screen-12-thumb.webp' alt='elabftw-eln' title='Listing users' />
         </a>
       </div>
     <div class='col-xs-6 col-md-6'>
-        <a href='img/screen-13.jpg' class='thumbnail' data-fancybox='group' data-caption='Plasmid viewer'>
-            <img src='img/screen-13-thumb.jpg' alt='elabftw-eln' title='Plasmid viewer' />
+        <a href='img/screen-13.webp' class='thumbnail' data-fancybox='group' data-caption='Plasmid viewer'>
+            <img src='img/screen-13-thumb.webp' alt='elabftw-eln' title='Plasmid viewer' />
         </a>
       </div>
     <div class='col-xs-6 col-md-6'>
-        <a href='img/screen-14.jpg' class='thumbnail' data-fancybox='group' data-caption='Metadata editor'>
-            <img src='img/screen-14-thumb.jpg' alt='elabftw-eln' title='Metadata editor' />
+        <a href='img/screen-14.webp' class='thumbnail' data-fancybox='group' data-caption='Chemistry editor'>
+            <img src='img/screen-14-thumb.webp' alt='elabftw-eln' title='Chemistry editor' />
         </a>
       </div>
 </div>
